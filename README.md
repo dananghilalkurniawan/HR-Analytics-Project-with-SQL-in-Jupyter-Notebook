@@ -59,9 +59,6 @@ Tujuan: Memahami alasan dan pola karyawan keluar.
 - Status kerja saat ini (`EmploymentStatus`)
 - Perbandingan lama bekerja antara karyawan aktif dan nonaktif
 
-### 6. Tren Tahunan Karyawan Masuk & Keluar  
-Tujuan: Mengidentifikasi pola masuk dan keluarnya karyawan berdasarkan tahun.
-
 ## Teknologi yang Digunakan
 
 - Python
