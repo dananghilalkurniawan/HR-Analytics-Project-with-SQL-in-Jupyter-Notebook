@@ -1,6 +1,8 @@
 # HR Analytics Project with SQL in Jupyter Notebook
 
-Selamat datang di proyek analisis data karyawan berbasis SQL yang dilakukan dalam lingkungan Jupyter Notebook menggunakan SQLite dan SQL Magic. Proyek ini bertujuan untuk membangun portfolio eksploratif dan analitis dari sebuah dataset sumber daya manusia (HRDataset), dan menyajikan insight penting yang berguna bagi pengambilan keputusan strategis perusahaan.
+Selamat datang di proyek analisis data karyawan berbasis SQL yang dikembangkan dalam lingkungan Jupyter Notebook menggunakan SQLite dan SQL Magic. Proyek ini bertujuan untuk melakukan eksplorasi dan analisis mendalam terhadap dataset sumber daya manusia (HRDataset), guna menghasilkan insight yang relevan dan strategis bagi pengambilan keputusan perusahaan.
+
+Analisis dilakukan dengan pendekatan berbasis kueri SQL, mencakup berbagai aspek seperti demografi tenaga kerja, struktur organisasi, distribusi gaji, produktivitas karyawan, serta pola turnover. Dengan struktur modular dan sistematis, proyek ini dirancang untuk mendukung pemahaman yang menyeluruh terhadap kondisi internal organisasi.
 
 ## Tujuan Proyek
 
