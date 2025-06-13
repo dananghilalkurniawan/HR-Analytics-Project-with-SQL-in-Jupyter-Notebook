@@ -14,7 +14,11 @@ Melalui pemanfaatan SQL secara intensif, proyek ini bertujuan untuk:
 
 ## Dataset
 
-Dataset yang digunakan adalah `HRDataset_v14.csv`, yang telah dikonversi ke database SQLite bernama `hr_database.db`. Dataset ini mencakup informasi penting seperti nama karyawan, jabatan, departemen, gaji, performa, status kerja, dan banyak lagi.
+Dataset yang digunakan adalah `HRDataset_v14.csv`, yang telah dikonversi ke database SQLite bernama `hr_database.db`. Dataset ini mencakup informasi penting seperti nama karyawan, jabatan, departemen, gaji, performa, status kerja, dan lainnya.
+
+**Sumber dataset**:  
+[Human Resources Data Set - Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+
 
 ## Analisis dan SQL Query
 
