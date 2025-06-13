@@ -72,7 +72,6 @@ Tujuan: Memahami alasan dan pola karyawan keluar.
 📂 HR-Analytics-SQL
 │
 ├── HRDataset_v14.csv
-├── hr_database.db
 ├── HR_Analysis.ipynb
 └── README.md
 ```
